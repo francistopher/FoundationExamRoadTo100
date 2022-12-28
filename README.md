@@ -7,9 +7,29 @@ There were a few instances were I started falling asleep during CS1. Most of the
 | Structure | Showcased |
 | --------- | --------- |
 | Singly Linked List | <i>[Horoscope](./horoscope)</i> |
+| Doubly Linked List | |
+| Singly Circular Linked List ||
+| Doubly Circular Linked List ||
+| Stack |<i>[Taxi](./taxi)</i>|
+| Queue | <i>[Publix](./publix)</i> |
+| Binary Tree ||
+| Binary Search Tree ||
+| Heap |<i>[MeanMediumRange](./meanMediumRange)</i> |
+| Hashing ||
+| Trie |<i>[CussAlternatives](./curseAlternatives)|
+
+i don't think graphs are in the foundation exam
 
 <i>not complete</i>
 
 ## Algorithms
+
+| Algorithm | Showcased |
+| --------- | --------- |
+| Bubble ||
+| Insertion ||
+| Selection ||
+| Quick ||
+| Merge ||
 
 ## Other
