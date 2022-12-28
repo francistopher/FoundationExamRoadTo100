@@ -4,6 +4,10 @@ There were a few instances were I started falling asleep during CS1. Most of the
 
 ## Data Structures
 
+| Structure | Showcased |
+| --------- | --------- |
+| Singly Linked List | [Horoscope][./horoscope] |
+
 ## Algorithms
 
 ## Other
