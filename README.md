@@ -6,7 +6,9 @@ There were a few instances were I started falling asleep during CS1. Most of the
 
 | Structure | Showcased |
 | --------- | --------- |
-| Singly Linked List | [Horoscope][./horoscope] |
+| Singly Linked List | <i>[Horoscope](./horoscope)</i> |
+
+<i>not complete</i>
 
 ## Algorithms
 
