@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void swap(int* arr, int *v1, int *v2)
+void swap(int *v1, int *v2)
 {
     int temp = *v1;
     *v1 = *v2;
@@ -20,10 +20,10 @@ int partition(int* arr, int l, int r)
             r--;
         if (l < r) // potentially not the same value in question
         {
-            swap(arr, &arr[l], &arr[r]); // swap two housed values on the wrong side
+            swap(&arr[l], &arr[r]); // swap two housed values on the wrong side
         }
     }
-    swap(arr, &arr[pi], &arr[r]); // putting pivot in place
+    swap(&arr[pi], &arr[r]); // putting pivot in place
     return r;
 }
 
